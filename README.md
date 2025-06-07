@@ -120,9 +120,9 @@ x_new = t.tensor([[120.0]])
 y_new_pred = model(x_new).item()
 print(f"\nPrediction for x = 120:  {y_new_pred:.8f}")
 ```
-### Name: KARTHIKEYAN R
+### Name: Subashini S
 
-### Register Number: 212222240046
+### Register Number: 212222240106
 
 ### Dataset Information
 ![image](https://github.com/user-attachments/assets/da678a21-a694-4fbc-b4b7-9a8d66d5b7fa)
